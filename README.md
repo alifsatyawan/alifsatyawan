@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ UC Berkeley
 -----------------
 
-Hello! I’m Alif, a junior at UC Berkeley majoring in Computer Science. I'm passionate about using software to drive business transformation and social impact. I'm currently enhancing my skills through coursework and extracurricular projects, aiming to solve complex problems and create meaningful change.
+Hello! I’m Alif, a junior at UC Berkeley majoring in Computer Science. I'm passionate about using software to drive social impact. I'm currently enhancing my skills through coursework and extracurricular projects, aiming to solve complex problems and create meaningful change.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My website](http://alifsatyawan.com)
