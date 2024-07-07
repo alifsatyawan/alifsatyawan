@@ -26,3 +26,13 @@ I'm a junior studying Computer Science at UC Berkeley and am passionate about us
 ### Badges
 
 <a href="https://github.com/alifsatyawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsatyawan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
