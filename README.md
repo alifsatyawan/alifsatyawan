@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Satyawan
 =====================================================================================================================================
 
-Computer Science @ UC Berkeley
-------------------------------
+Software Engineer
+-----------------
 
-I love code!!
+Studying Computer Science at UC Berkeley
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My website](http://alifsatyawan.com)
@@ -30,9 +30,9 @@ I love code!!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/alifsatyawan"><img src="https://github-readme-stats.vercel.app/api?username=alifsatyawan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="alifsatyawan's GitHub stats" /></a>
+<a href="http://www.github.com/alifsatyawan"><img src="https://github-readme-stats.vercel.app/api?username=alifsatyawan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="alifsatyawan's GitHub stats" /></a>
 
-<a href="https://github.com/alifsatyawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsatyawan&langs_count=10&title_color=0891b2&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/alifsatyawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsatyawan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
