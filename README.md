@@ -25,16 +25,4 @@ Hello! I’m Alif, a junior studying Computer Science at UC Berkeley. I'm passio
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/alifsatyawan"><img src="https://github-readme-stats.vercel.app/api?username=alifsatyawan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="alifsatyawan's GitHub stats" /></a>
-
 <a href="https://github.com/alifsatyawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsatyawan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/alifsatyawan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
