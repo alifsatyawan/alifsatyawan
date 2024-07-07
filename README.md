@@ -10,7 +10,7 @@ I'm a junior studying Computer Science at UC Berkeley and am passionate about us
 * 🧠  I'm learning three.js, Python, and Go!
 * 🤝  I'm open to collaborating on Interesting Projects
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+#### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
 
 ```javascript
