@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Satyawan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name's Alif!
 =====================================================================================================================================
 
 I'm a junior studying Computer Science at UC Berkeley and am passionate about using software to drive social impact. I'm currently enhancing my skills through coursework and extracurricular projects, aiming to solve complex problems and create meaningful change.
