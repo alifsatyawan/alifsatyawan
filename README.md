@@ -21,7 +21,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 ```
 #### My favorite song 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n)
 
 ---
 
