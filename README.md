@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science @ UC Berkeley
 -----------------
 
-Looking for Software Engineering roles!!
+Software Engineer
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My website](http://alifsatyawan.com)
