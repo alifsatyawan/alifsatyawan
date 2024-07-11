@@ -4,7 +4,7 @@ Hi, my name's Alif! ![](https://user-images.githubusercontent.com/18350557/17630
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-I'm a junior studying Computer Science at UC Berkeley and am passionate about using software to drive social impact. I'm currently enhancing my skills through coursework and extracurricular projects, aiming to solve complex problems and create meaningful change.
+I'm a junior studying Computer Science at [UC Berkeley](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) and am passionate about using software to drive social impact. I'm currently enhancing my skills through coursework and extracurricular projects, aiming to solve complex problems and create meaningful change.
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [My website](http://alifsatyawan.com)
