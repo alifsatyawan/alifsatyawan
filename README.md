@@ -4,7 +4,6 @@ Hey, my name's Alif! ![](https://user-images.githubusercontent.com/18350557/1763
 I'm a junior studying Computer Science at UC Berkeley and am passionate about using software to drive social impact. I'm currently enhancing my skills through internships, coursework, and projects, aiming to solve complex problems and create meaningful change.
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [My website](http://alifsatyawan.com)
 * ✉️  You can contact me at [alif.satyawan@berkeley.edu](mailto:alif.satyawan@berkeley.edu)
 * 🚀  I'm currently working on [Facial Recognition in Real-Time](http://github.com/alifsatyawan/Facial-Recognition)
 * 🧠  I'm learning three.js, Python, and Go!
