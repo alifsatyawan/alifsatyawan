@@ -6,6 +6,7 @@ I'm a junior studying Computer Science at UC Berkeley and am passionate about us
 * 🌍  I'm based in California
 * ✉️  You can contact me at [alif.satyawan@berkeley.edu](mailto:alif.satyawan@berkeley.edu)
 * 🧠  I'm learning three.js, Python, and Go!
+* 🤖  I'm passionate about Machine Learning and AI
 * 🤝  I'm open to collaborating on Interesting Projects
   
 #### Fun fact: I once solved the world's oldest question with a single line of JavaScript
